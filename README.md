@@ -1,5 +1,9 @@
 # BibTeX_2_BibItem
 
+Recenely, I wrote a manuscript, luckily, was accepted. The publisher wants the references to provided in '\bibitem' instead of BibTeX. So, I found a simple solution given as follows:
+
+***
+
 Clone the repository "https://github.com/sagihaider/BibTeX_2_BibItem.git" into the desired folder
 
 *** 
