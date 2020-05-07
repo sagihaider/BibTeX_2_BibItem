@@ -1,0 +1,6 @@
+\documentclass{article}
+\begin{document}
+\nocite{*}
+\bibliography{refBibTex}
+\bibliographystyle{plain}
+\end{document}
