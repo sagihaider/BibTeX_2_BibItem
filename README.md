@@ -2,7 +2,11 @@
 
 Clone the repository "https://github.com/sagihaider/BibTeX_2_BibItem.git" into the desired folder
 
-Save your references list into a BibTex file name 'refs.bib'
+*** 
+
+Save your references list into a BibTex file name 'refs.bib'. Note: Best way of doing is to copy the bixtex files from GoogleScholar.
+
+*** 
 
 Open terminal on MAC and run command in step 2 and step 3
 
