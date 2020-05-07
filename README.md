@@ -1,6 +1,6 @@
 # BibTeX_2_BibItem
 
-Recenely, I wrote a manuscript, luckily, was accepted. The publisher wants the references to provided in '\bibitem' instead of BibTeX. So, I found a simple solution given as follows:
+Recenely, I wrote a manuscript, luckily, was accepted. The publisher wants the references to provided in '\bibitem' instead of <BibTeX>. So, I found a simple solution given as follows:
 
 ***
 
